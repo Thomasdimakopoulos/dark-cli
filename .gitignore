@@ -8,5 +8,4 @@ toolchain.cmake
 include
 lib
 share
-config.bat
 node_modules
